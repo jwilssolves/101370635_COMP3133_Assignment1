@@ -1,3 +1,7 @@
+// Richard Wilson
+// 101370635
+// 2/18/2024
+
 const User = require('./model/user_model'); 
 const Employee = require('./model/employee_model'); 
 

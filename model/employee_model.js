@@ -1,3 +1,7 @@
+// Richard Wilson
+// 101370635
+// 2/18/2024
+
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
