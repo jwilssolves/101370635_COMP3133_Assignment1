@@ -7,4 +7,4 @@ To run, open bash terminal and type node index.js
 
 Sample login data: 
 username: sample_user
-password: password123
+password: password123!
