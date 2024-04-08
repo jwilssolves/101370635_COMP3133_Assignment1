@@ -4,13 +4,15 @@
   "description": "Full Stack Development 2, Assignment 1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Richard Wilson",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^3.13.0",
+    "dotenv": "^16.4.5",
     "express": "^4.18.2",
     "graphql": "^16.8.1",
     "mongodb": "^6.3.0",
